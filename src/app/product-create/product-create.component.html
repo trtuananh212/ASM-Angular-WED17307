@@ -1,0 +1,11 @@
+<div class="container">
+    <form id="form" [formGroup]="productForm" (ngSubmit)="onHandleSubmit()">
+        <label for="name">Tên sản phẩm:</label>
+        <input type="text" formControlName="name" />
+        <label for="price">Giá sản phẩm:</label>
+        <input type="number" formControlName="price" />
+        <label for="desc">Mô tả sản phẩm: </label>
+        <input type="text" formControlName="desc" />
+        <button type="submit" >Thêm</button>
+    </form>
+</div>

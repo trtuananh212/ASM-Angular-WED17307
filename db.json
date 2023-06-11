@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "JnaYvG6",
+      "name": "Product B",
+      "price": 300,
+      "desc": "mo ta san pham B"
+    },
+    {
+      "id": "JnaYvG6",
+      "name": "Product B",
+      "price": 300,
+      "desc": "mo ta san pham B"
+    },
+    {
+      "id": "L8oTOdO",
+      "name": "noni madueke",
+      "price": 35,
+      "desc": ""
+    },
+    {
+      "id": "e2ASmt3",
+      "name": "benzema",
+      "price": 400,
+      "desc": ""
+    }
+  ]
+}
